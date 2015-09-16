@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說罪福報應經
+#+DATE: 2015-08-30 20:19:42.796706
+#+PROPERTY: JUAN 0
